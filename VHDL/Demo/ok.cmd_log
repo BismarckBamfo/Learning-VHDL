@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/ok.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/ok.syr" 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/ok.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/ok.syr" 

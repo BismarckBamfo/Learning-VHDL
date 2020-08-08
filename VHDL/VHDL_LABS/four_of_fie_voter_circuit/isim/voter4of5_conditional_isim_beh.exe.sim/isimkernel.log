@@ -1,0 +1,28 @@
+Command line:
+   voter4of5_conditional_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57229
+
+Fri Feb  7 11:55:24 2020
+
+
+ Elaboration Time: 0.05 sec
+
+ Current Memory Usage: 194.769 Meg
+
+ Total Signals          : 6
+ Total Nets             : 6
+ Total Signal Drivers   : 1
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 1
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 366
+
+ Total Simulation Time: 0.06 sec
+
+ Current Memory Usage: 270.27 Meg
+
+Fri Feb  7 11:57:28 2020
+

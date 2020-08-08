@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/LAB2_Electrical/ckt_3.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/LAB2_Electrical/ckt_3.syr" 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/LAB2_Electrical/ckt_3.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/LAB2_Electrical/ckt_3.syr" 

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/concurren_signals.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/concurren_signals.syr" 

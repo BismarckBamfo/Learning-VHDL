@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter_2_of_5_conditional.xst" -ofn "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter_2_of_5_conditional.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 voter_2_of_5_conditional.ngc voter_2_of_5_conditional.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o voter_2_of_5_conditional_map.ncd voter_2_of_5_conditional.ngd voter_2_of_5_conditional.pcf 
+par -w -intstyle ise -ol high -t 1 voter_2_of_5_conditional_map.ncd voter_2_of_5_conditional.ncd voter_2_of_5_conditional.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml voter_2_of_5_conditional.twx voter_2_of_5_conditional.ncd -o voter_2_of_5_conditional.twr voter_2_of_5_conditional.pcf 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter_2_of_5_conditional.xst" -ofn "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter_2_of_5_conditional.syr" 

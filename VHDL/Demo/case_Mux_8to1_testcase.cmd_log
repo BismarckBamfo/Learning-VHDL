@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/case_Mux_8to1_testcase.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/case_Mux_8to1_testcase.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 case_Mux_8to1_testcase.ngc case_Mux_8to1_testcase.ngd  

@@ -1,0 +1,41 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_select.vhd" in Library work.
+Entity <voter4of5_select> compiled.
+ERROR:HDLParsers:164 - "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_select.vhd" Line 39. parse error, unexpected LE, expecting COMMA or COLON
+ERROR:HDLParsers:3312 - "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_select.vhd" Line 41. Undefined symbol 't_sig'.
+ERROR:HDLParsers:1209 - "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_select.vhd" Line 42. t_sig: Undefined symbol (last report in this block)
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.07 secs
+ 
+--> 
+
+
+Total memory usage is 469968 kilobytes
+
+Number of errors   :    3 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

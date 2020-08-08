@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/mux_8_1/mux8_if.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/mux_8_1/mux8_if.syr" 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/mux_8_1/mux8_if.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/mux_8_1/mux8_if.syr" 

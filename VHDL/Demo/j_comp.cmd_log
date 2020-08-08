@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/j_comp.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/j_comp.syr" 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/j_comp.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/j_comp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 j_comp.ngc j_comp.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o j_comp_map.ncd j_comp.ngd j_comp.pcf 
+par -w -intstyle ise -ol high -t 1 j_comp_map.ncd j_comp.ncd j_comp.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml j_comp.twx j_comp.ncd -o j_comp.twr j_comp.pcf 

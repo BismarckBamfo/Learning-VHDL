@@ -1,0 +1,4 @@
+work	"and2gate.vhd"
+work	"multipexer.vhd"
+work	"notgate.vhd"
+work	"or2gate.vhd"

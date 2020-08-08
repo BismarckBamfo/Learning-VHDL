@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/conditional.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/conditional.syr" 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/conditional.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/conditional.syr" 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/conditional.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/conditional.syr" 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/conditional.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/conditional.syr" 

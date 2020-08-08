@@ -1,0 +1,6 @@
+V3 3
+FL /home/bismarck/Desktop/VHDLDemo/LAB_2/m.vhd 2020/01/31.11:50:30 P.20131013
+EN work/m 1580471435 FL /home/bismarck/Desktop/VHDLDemo/LAB_2/m.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/m/Behavioral 1580471436 \
+      FL /home/bismarck/Desktop/VHDLDemo/LAB_2/m.vhd EN work/m 1580471435

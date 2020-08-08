@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/bismarck/Desktop/VHDLDemo/LAB_2/m_isim_beh.exe" -prj "/home/bismarck/Desktop/VHDLDemo/LAB_2/m_beh.prj" "work.m" 

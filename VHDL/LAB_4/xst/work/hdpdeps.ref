@@ -1,0 +1,13 @@
+V3 6
+FL /home/bismarck/Desktop/VHDLDemo/LAB_4/DFlip_Flop.vhd 2020/02/28.10:38:00 P.20131013
+EN work/DFlip_Flop 1582891438 \
+      FL /home/bismarck/Desktop/VHDLDemo/LAB_4/DFlip_Flop.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/DFlip_Flop/Behavioral 1582891439 \
+      FL /home/bismarck/Desktop/VHDLDemo/LAB_4/DFlip_Flop.vhd EN work/DFlip_Flop 1582891438
+FL /home/bismarck/Desktop/VHDLDemo/LAB_4/TFlipFlop.vhd 2020/02/28.11:49:59 P.20131013
+EN work/TFlipFlop 1582891454 \
+      FL /home/bismarck/Desktop/VHDLDemo/LAB_4/TFlipFlop.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/TFlipFlop/Behavioral 1582891455 \
+      FL /home/bismarck/Desktop/VHDLDemo/LAB_4/TFlipFlop.vhd EN work/TFlipFlop 1582891454

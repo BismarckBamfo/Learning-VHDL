@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/process_one.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/process_one.syr" 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/process_one.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/process_one.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 process_one.ngc process_one.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o process_one_map.ncd process_one.ngd process_one.pcf 
+par -w -intstyle ise -ol high -t 1 process_one_map.ncd process_one.ncd process_one.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml process_one.twx process_one.ncd -o process_one.twr process_one.pcf 

@@ -1,0 +1,43 @@
+ISim log file
+Running: /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/comparator_s_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/comparator_s_isim_beh.wdb 
+INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+ISim P.20131013 (signature 0xfbc00daa)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# exit 0
+# run all
+# isim force add /comparator_s/input_1 10 -radix dec
+# isim force add /comparator_s/input_1 10 -radix dec
+# run all
+# run all
+# run all
+# isim force add /comparator_s/input_2 10 -radix dec
+# isim force add /comparator_s/input_2 10 -radix dec
+# run all
+# run all
+# isim force add /comparator_s/sel 000 -radix bin
+# isim force add /comparator_s/sel 000 -radix bin
+# run all
+# run 1.00us
+# run 1.00us
+# run all
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+ISim P.20131013 (signature 0xfbc00daa)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# exit 0

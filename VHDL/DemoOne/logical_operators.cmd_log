@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/DemoOne/logical_operators.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/DemoOne/logical_operators.syr" 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/DemoOne/logical_operators.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/DemoOne/logical_operators.syr" 

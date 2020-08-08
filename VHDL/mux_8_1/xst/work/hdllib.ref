@@ -1,0 +1,4 @@
+EN mux8_if NULL /home/bismarck/Desktop/VHDLDemo/mux_8_1/mux8_if.vhd sub00/vhpl00 1582293011
+EN mux8_nestedcase NULL /home/bismarck/Desktop/VHDLDemo/mux_8_1/mux8_nestedCase.vhd sub00/vhpl02 1582648063
+AR mux8_nestedcase behavioral /home/bismarck/Desktop/VHDLDemo/mux_8_1/mux8_nestedCase.vhd sub00/vhpl03 1582648064
+AR mux8_if behavioral /home/bismarck/Desktop/VHDLDemo/mux_8_1/mux8_if.vhd sub00/vhpl01 1582293012

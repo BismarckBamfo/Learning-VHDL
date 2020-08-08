@@ -1,0 +1,5 @@
+set -tmpdir "/home/bismarck/Desktop/VHDLDemo/mux_8_1/xst/projnav.tmp"
+set -xsthdpdir "/home/bismarck/Desktop/VHDLDemo/mux_8_1/xst"
+elaborate
+-ifn mux8_nestedCase.prj
+-ifmt mixed

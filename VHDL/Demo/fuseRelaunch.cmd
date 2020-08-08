@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/bismarck/Desktop/VHDLDemo/Demo/process_mux_isim_beh.exe" -prj "/home/bismarck/Desktop/VHDLDemo/Demo/process_mux_beh.prj" "work.process_mux" 

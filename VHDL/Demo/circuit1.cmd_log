@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/Demo/circuit1.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/Demo/circuit1.syr" 

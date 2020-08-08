@@ -1,0 +1,17 @@
+EN voter_2_of_5_select NULL /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter_2_of_5_select.vhd sub00/vhpl09 1581603750
+AR comparator1 behavioral /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/comparator1.vhd sub00/vhpl13 1581610784
+EN voter_2_of_5 NULL /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter_2_of_5.vhd sub00/vhpl05 1581431561
+AR comparator_s behavioral /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/comparator_s.vhd sub00/vhpl16 1581611809
+EN voter4of5_conditional NULL /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_conditional.vhd sub00/vhpl03 1581084461
+AR voter_2_of_5_select voter_2_of_5_op /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter_2_of_5_select.vhd sub00/vhpl10 1581603751
+EN voter4of5 NULL /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5.vhd sub00/vhpl00 1580986328
+EN voter_2_of_5_conditional NULL /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter_2_of_5_conditional.vhd sub00/vhpl07 1581439918
+AR voter4of5_conditional behavioral /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_conditional.vhd sub00/vhpl04 1581084462
+EN comparator_select NULL /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/comparator_select.vhd sub00/vhpl14 1581611361
+EN comparator1 NULL /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/comparator1.vhd sub00/vhpl12 1581610783
+AR voter_2_of_5_conditional voter_2_of_5_cdnop /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter_2_of_5_conditional.vhd sub00/vhpl08 1581439919
+AR voter_2_of_5 voter_2_of_5_op /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter_2_of_5.vhd sub00/vhpl06 1581431562
+EN voter4of5_select NULL /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_select.vhd sub00/vhpl02 1581069317
+EN comparator_s NULL /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/comparator_s.vhd sub00/vhpl15 1581611808
+EN comparator NULL /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/comparator.vhd sub00/vhpl11 1581606904
+AR voter4of5 behavioral /home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5.vhd sub00/vhpl01 1580986329

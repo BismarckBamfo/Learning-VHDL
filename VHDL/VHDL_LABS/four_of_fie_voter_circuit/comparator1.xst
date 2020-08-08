@@ -1,0 +1,5 @@
+set -tmpdir "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/xst/projnav.tmp"
+set -xsthdpdir "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/xst"
+elaborate
+-ifn comparator1.prj
+-ifmt mixed

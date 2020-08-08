@@ -1,0 +1,4 @@
+EN dflip_flop NULL /home/bismarck/Desktop/VHDLDemo/LAB_4/DFlip_Flop.vhd sub00/vhpl00 1582891438
+AR dflip_flop behavioral /home/bismarck/Desktop/VHDLDemo/LAB_4/DFlip_Flop.vhd sub00/vhpl01 1582891439
+AR tflipflop behavioral /home/bismarck/Desktop/VHDLDemo/LAB_4/TFlipFlop.vhd sub00/vhpl03 1582891455
+EN tflipflop NULL /home/bismarck/Desktop/VHDLDemo/LAB_4/TFlipFlop.vhd sub00/vhpl02 1582891454

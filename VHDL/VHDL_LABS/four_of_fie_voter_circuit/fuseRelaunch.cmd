@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/comparator_s_isim_beh.exe" -prj "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/comparator_s_beh.prj" "work.comparator_s" 

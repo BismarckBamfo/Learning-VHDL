@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/bismarck/Desktop/VHDLDemo/LAB_4/TFlipFlop_isim_beh.exe" -prj "/home/bismarck/Desktop/VHDLDemo/LAB_4/TFlipFlop_beh.prj" "work.TFlipFlop" 

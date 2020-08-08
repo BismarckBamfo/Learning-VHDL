@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_select.xst" -ofn "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_select.syr" 
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_select.xst" -ofn "/home/bismarck/Desktop/VHDL_LABS/four_of_fie_voter_circuit/voter4of5_select.syr" 

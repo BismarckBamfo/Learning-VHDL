@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/bismarck/Desktop/VHDLDemo/LAB_4/TFlipFlop.xst" -ofn "/home/bismarck/Desktop/VHDLDemo/LAB_4/TFlipFlop.syr" 

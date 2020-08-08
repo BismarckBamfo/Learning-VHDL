@@ -1,0 +1,13 @@
+V3 6
+FL /home/bismarck/Desktop/VHDLDemo/LAB2_Electrical/ckt_2.vhd 2020/01/31.12:43:16 P.20131013
+EN work/ckt_2 1580474601 \
+      FL /home/bismarck/Desktop/VHDLDemo/LAB2_Electrical/ckt_2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ckt_2/Behavioral 1580474602 \
+      FL /home/bismarck/Desktop/VHDLDemo/LAB2_Electrical/ckt_2.vhd EN work/ckt_2 1580474601
+FL /home/bismarck/Desktop/VHDLDemo/LAB2_Electrical/ckt_3.vhd 2020/01/31.13:16:30 P.20131013
+EN work/ckt_3 1580476595 \
+      FL /home/bismarck/Desktop/VHDLDemo/LAB2_Electrical/ckt_3.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ckt_3/Behavioral 1580476596 \
+      FL /home/bismarck/Desktop/VHDLDemo/LAB2_Electrical/ckt_3.vhd EN work/ckt_3 1580476595

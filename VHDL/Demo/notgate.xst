@@ -1,0 +1,5 @@
+set -tmpdir "/home/bismarck/Desktop/VHDLDemo/Demo/xst/projnav.tmp"
+set -xsthdpdir "/home/bismarck/Desktop/VHDLDemo/Demo/xst"
+elaborate
+-ifn notgate.prj
+-ifmt mixed

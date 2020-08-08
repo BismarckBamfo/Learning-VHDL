@@ -1,0 +1,4 @@
+vhdl work "or2gate.vhd"
+vhdl work "notgate.vhd"
+vhdl work "and2gate.vhd"
+vhdl work "multipexer.vhd"

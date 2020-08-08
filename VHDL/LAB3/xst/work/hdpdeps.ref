@@ -1,0 +1,6 @@
+V3 3
+FL /home/bismarck/Desktop/VHDLDemo/LAB3/my_ckt.vhd 2020/02/14.13:06:57 P.20131013
+EN work/my_ckt 1581685643 FL /home/bismarck/Desktop/VHDLDemo/LAB3/my_ckt.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/my_ckt/Behavioral 1581685644 \
+      FL /home/bismarck/Desktop/VHDLDemo/LAB3/my_ckt.vhd EN work/my_ckt 1581685643
